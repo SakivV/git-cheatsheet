@@ -3,3 +3,4 @@
 1. Change Number #1 - Working
 2. Added Login - Working
 3. Adding Logut functionality
+4. adding sign up functionality
