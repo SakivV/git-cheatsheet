@@ -5,3 +5,4 @@
 3. Adding Logut functionality
 4. adding sign up functionality
 5. Adding Function for profile summary
+6. added changes for vikas
