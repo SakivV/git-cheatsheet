@@ -11,5 +11,8 @@
 8. Added Heart Button
 8.1 Count for Heart Button.
 9. Add Clap Button
+9.1 Count for Clap Button.
 10. Upload More than 50 picture.
 11. Upload GIF images.
+12. Upload Reels
+13. Upload HD images.
