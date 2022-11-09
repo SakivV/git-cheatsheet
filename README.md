@@ -6,3 +6,4 @@
 4. adding sign up functionality
 5. Adding Function for profile summary
 6. added changes for vikas
+7. Added functionality for Like button.
