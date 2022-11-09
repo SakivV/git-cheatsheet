@@ -9,4 +9,7 @@
 7. Added functionality for Like button.
 8. Added functionality for Like count.
 8. Added Heart Button
+8.1 Count for Heart Button.
 9. Add Clap Button
+10. Upload More than 50 picture.
+11. Upload GIF images.
