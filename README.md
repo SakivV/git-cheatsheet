@@ -9,3 +9,4 @@
 7. Added functionality for Like button.
 
 ## Added section for Git Basics
+## Added section for Git Intermediate
