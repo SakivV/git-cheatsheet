@@ -19,5 +19,10 @@
 <br/> Adding Git Practice
 <br/> Adding Git Branch Command.
 <br/> Adding Git Clone.
+<<<<<<< HEAD
 <br/> Adding Git Clone by rahul
+=======
+<br/> Changes by Akash
+
+>>>>>>> 9e1d1daa383dd10856f49b0343ed54e22cf1df7e
 changes by Rahul
